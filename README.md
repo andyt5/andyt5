@@ -1,6 +1,9 @@
-### Hi there, my name is Andy. 👋
+## Hi there, my name is Andy. 👋
 
 ----
+
+[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyt5)](https://github.com/andyt5/github-readme-stats)
+
 
 <!--
 **andyt5/andyt5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
