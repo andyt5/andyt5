@@ -2,7 +2,7 @@
 
 ----
 
-[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyt5)](https://github.com/andyt5/github-readme-stats)
+[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyt5&show_icons=true&theme=aura)](https://github.com/andyt5/github-readme-stats)
 
 
 <!--
