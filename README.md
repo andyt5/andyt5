@@ -8,7 +8,7 @@
 ### 💻I'm an aspiring Software Developer.💻
 <br>
 
-<p> 👨‍🎓 I'm currently a student enrolled in Broward College to get my Associate's in Software Development.</p>
+<p> 👨‍🎓 Graduated from Broward College for an Associate's in Software Development.</p>
 
 ### 📄 Languages:
 
